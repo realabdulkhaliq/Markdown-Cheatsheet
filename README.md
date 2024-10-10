@@ -19,4 +19,12 @@ If you want to write spacial character place \ before it (ie: \\#)
 
 Use Double astaric \*\* or double underscore \_\_ before and after word or line to make it bold.
 
-__This is Bold__ **This is bold**
+__\_\_This is Bold\_\___
+**\*\*This is bold\*\***
+
+# Making a Word or Line Italic
+
+Use Single astaric \* or single underscore \_ before and after word or line to make it italic.
+
+_\_This is italic\__
+*\*This is italic\**
