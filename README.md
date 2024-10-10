@@ -14,3 +14,7 @@ Start your heading with # and a space
 # Special Characters
 
 If you want to write spacial character place \ before it (ie: \\#)
+
+# Making a Word Bold
+
+Use Double astaric \*\* before and after word or line to make it bold.
