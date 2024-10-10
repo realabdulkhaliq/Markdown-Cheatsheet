@@ -17,4 +17,6 @@ If you want to write spacial character place \ before it (ie: \\#)
 
 # Making a Word Bold
 
-Use Double astaric \*\* before and after word or line to make it bold.
+Use Double astaric \*\* or double underscore \_\_ before and after word or line to make it bold.
+
+__This is Bold__ **This is bold**
